@@ -1,0 +1,37 @@
+
+form{
+	width:15%;
+	margin: 0px auto;
+	padding:20px;
+	border: 1px solid black;
+	background: white;
+	border-radius:25px;
+}
+h2{
+	text-align:center;
+}
+.input-group{
+	display:block;
+	text-align:left;
+	margin:3px;
+}
+.input-group label{
+	display:block;
+	text-align:left;
+}
+.error{
+	width:90%;
+	border:1px solid red;
+	color:red;
+	background:#f2dede;
+	border-radius:5px;
+	text-align:left;
+}
+body{
+        background: url('water.jpg') center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    
+}
